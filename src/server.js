@@ -10,6 +10,7 @@ app.use(
       "http://localhost:5173",
       "https://6000-firebase-studio-1765370272139.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev",
       "https://signup-guardian.vercel.app",
+      "https://studio.firebase.google.com/studio-9926426404",
       "https://9000-firebase-studio-1765370272139.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
     ],
     credentials: true
