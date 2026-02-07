@@ -8,6 +8,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
+      "kl-radio.vercel.app",
       "https://6000-firebase-studio-1765370272139.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev",
       "https://signup-guardian.vercel.app",
       "https://studio.firebase.google.com/studio-9926426404",
