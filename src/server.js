@@ -7,7 +7,6 @@ const app = require("./app")
 app.use(
   cors({
     origin: [
-      "http://localhost:5173",
       "kl-radio.vercel.app",
       "https://klradio.in/",
       "https://6000-firebase-studio-1765370272139.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev",
